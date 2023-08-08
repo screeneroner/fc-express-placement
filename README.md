@@ -1,11 +1,13 @@
 # Express Placement
 Express Placement is a FreeCAD GUI addon. It allows quick editing of X, Y, Z coordinates of the selected object. 
-One double click to edit object placement instead of four sequential clicks!<br/>
-__You may work 4 times faster__!
+
+I have tested this addon on a lot of my FreeCAD files with different levels of complexity. It works fine in all of them. However, I cannot foresee all cases that may break down the simple straightforward logic of this add-on. So, if you encounter any problems, please let me know so I can fix them.
 
 <br/>
 
-# Standard FreeCAD Placement (in red)
+# Let's see the difference and benefits
+
+## Standard FreeCAD Placement (in red)
 
 The standard FreeCAD built-in editor requires many additional mouse clicks before you actually start parameter editing, especially when using parametric expressions to position your object:
 
@@ -16,7 +18,7 @@ The standard FreeCAD built-in editor requires many additional mouse clicks befor
 
 You must repeat these clicks when you select another object. Again and again...
 
-# Express Placement (in green)
+## Express Placement (in green)
 
 The __Express Placement__ macro creates a __special panel__ for you. You may dock this panel to any suitable place. It shows __three rows with X, Y, Z coordinates__. These coordinates contain values and expression fields. They are __available for editing with just one double click__.
 
@@ -24,6 +26,8 @@ The __Express Placement__ macro creates a __special panel__ for you. You may doc
 
 [![Standard in red and Express in green](standard_vs_express.png "Standard in red and Express in green")](https://www.buymeacoffee.com/screeneroner)
 
+One double click to edit object placement instead of four sequential clicks!<br/>
+__You may work 4 times faster__!
 
 <br/>
 
@@ -44,7 +48,5 @@ To have an ability to quickly switch on Express Placement table, you may place a
 
 <br/>
 
-# Warning
-I have tested this addon on several of my FreeCAD files with different levels of complexity. It works fine in all of them. 
-
-However, I cannot foresee all exotic objects and their possible placement issues that may break down the simple addon logic. If you encounter any problems, please let me know so I can fix them.
+# Buy me a coffee
+If you find this add-on useful and feel it's worth treating me to a couple-triple coffee cups in recognition of my work, at any time you may do it by [&#x2615; Buy me a coffee](https://www.buymeacoffee.com/screeneroner).
