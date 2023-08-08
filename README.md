@@ -1,4 +1,4 @@
-# Express Placement
+# FreeCAD Express Placement
 Express Placement is a FreeCAD GUI addon. It allows quick editing of X, Y, Z coordinates of the selected object. 
 
 I have tested this addon on a lot of my FreeCAD files with different levels of complexity. It works fine in all of them. However, I cannot foresee all cases that may break down the simple straightforward logic of this add-on. So, if you encounter any problems, please let me know so I can fix them.
