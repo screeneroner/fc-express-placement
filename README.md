@@ -5,7 +5,7 @@ I have tested this addon on a lot of my FreeCAD files with different levels of c
 
 <br/>
 
-# Let's see the difference and benefits
+# Difference and benefits
 
 ## Standard FreeCAD Placement (in red)
 
@@ -40,7 +40,7 @@ You may download and use Express Placement addon immediately in your FreeCAD:
 <br/>
 
 # Installing Express Placement Toolbar Button
-To have an ability to quickly switch on Express Placement table, you may place a button to quickly exwcute this macro and bring up Express Placement table:
+To have an ability to quickly switch on Express Placement table, you may place a button to quickly execute this macro and bring up Express Placement table:
 
 1. Download the _fc-express-placement.FCMacro_ file and place it in the _User Macros_ folder inside your FreeCAD installation folder.
 2. _Select_ the Express Placement macro in the _User Macros_ panel, invoked from the FreeCAD _main menu Macro / Macros / User Macros_.
@@ -49,5 +49,4 @@ To have an ability to quickly switch on Express Placement table, you may place a
 <br/>
 
 ---
-
 _If you find this add-on useful and feel it's worth treating me to a couple-triple coffee cups in recognition of my work, at any time you may do it via_ [&#x2615; Buy me a coffee](https://www.buymeacoffee.com/screeneroner)
