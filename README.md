@@ -48,5 +48,6 @@ To have an ability to quickly switch on Express Placement table, you may place a
 
 <br/>
 
-# Buy me a coffee
-If you find this add-on useful and feel it's worth treating me to a couple-triple coffee cups in recognition of my work, at any time you may do it by [&#x2615; Buy me a coffee](https://www.buymeacoffee.com/screeneroner).
+---
+
+_If you find this add-on useful and feel it's worth treating me to a couple-triple coffee cups in recognition of my work, at any time you may do it via_ [&#x2615; Buy me a coffee](https://www.buymeacoffee.com/screeneroner)
