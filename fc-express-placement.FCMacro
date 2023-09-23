@@ -1,18 +1,17 @@
 # -*- coding: utf-8 -*-
-# Macro metadata
 __Name__ = "Express Placement"
 __Comment__ = "FreeCAD GUI addon that allow quick editing X,Y,Z coordinates of the selected object"
 __Author__ = "screeneroner"
 __Version__ = "1.0"
 __Date__ = "2023-08-01"
 __License__ = "GPL-3.0"
-__Web__ = "https://www.buymeacoffee.com/screeneroner"
-__Wiki__ = "https://github.com/screeneroner/fc-express-placement"
+__Web__ = "https://wiki.freecad.org/Macro_Express_Placement"
+__Wiki__ = "https://wiki.freecad.org/Macro_Express_Placement"
 __Icon__ = "https://wiki.freecad.org/images/8/8f/Std_AxisCross_example.svg"
 __Help__ = "Display and quickly edit selected object placement coordinates directly or via expressions"
 __Status__ = "Working"
 __Requires__ = "FreeCAD >= 0.19"
-__Communication__ = "https://www.buymeacoffee.com/screeneroner"
+__Communication__ = "https://forum.freecad.org/memberlist.php?mode=viewprofile&u=60629"
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 import FreeCADGui as Gui
