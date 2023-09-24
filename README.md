@@ -10,7 +10,6 @@ Express Placement is a FreeCAD GUI addon. It allows quick editing of the X, Y, Z
 
 One double click to edit object placement instead of four sequential clicks - '''you may work 4 times faster!'''
 
-<br>
 ## Standard FreeCAD Placement (in red)
 
 The standard FreeCAD built-in editor requires many additional mouse clicks before you actually start parameter editing, especially when using parametric expressions to position your object:
